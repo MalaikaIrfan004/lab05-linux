@@ -1,0 +1,19 @@
+total 72
+drwxr-x--- 12 malaikairfan004 malaikairfan004 4096 Oct 16 03:53 .
+drwxr-xr-x  3 root            root            4096 Sep 14 14:39 ..
+-rw-------  1 malaikairfan004 malaikairfan004 1306 Oct 10 08:06 .bash_history
+-rw-r--r--  1 malaikairfan004 malaikairfan004  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 malaikairfan004 malaikairfan004 3771 Feb 13  2026 .bashrc
+drwx------  2 malaikairfan004 malaikairfan004 4096 Sep 14 14:56 .cache
+-rw-rw-r--  1 malaikairfan004 malaikairfan004   64 Oct 16 03:51 .gitconfig
+-rw-------  1 malaikairfan004 malaikairfan004   20 Oct 16 03:51 .lesshst
+drwx------  3 malaikairfan004 malaikairfan004 4096 Oct 10 08:41 .local
+-rw-r--r--  1 malaikairfan004 malaikairfan004  807 Feb 13  2026 .profile
+drwx------  2 malaikairfan004 malaikairfan004 4096 Oct 16 03:47 .ssh
+drwxrwxr-x  3 malaikairfan004 malaikairfan004 4096 Oct 10 10:05 Assignment01
+drwxrwxr-x  3 malaikairfan004 malaikairfan004 4096 Oct 10 07:12 Assignments
+drwxrwxr-x  5 malaikairfan004 malaikairfan004 4096 Oct 10 07:16 CC
+drwxrwxr-x  3 malaikairfan004 malaikairfan004 4096 Oct 10 08:08 Gitea
+drwxrwxr-x  3 malaikairfan004 malaikairfan004 4096 Oct 10 11:11 MalaikaIrfan004.github.io
+drwxrwxr-x  5 malaikairfan004 malaikairfan004 4096 Oct 16 03:54 lab05-linux
+drwxrwxr-x  2 malaikairfan004 malaikairfan004 4096 Sep 20 18:08 mylab
